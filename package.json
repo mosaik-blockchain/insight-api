@@ -30,10 +30,10 @@
   "dependencies": {
     "JSONStream": "^1.3.1",
     "async": "*",
-    "bcoin": "mosaik-crypto-technologies/bcoin#iop",
-    "bitcore-lib": "mosaik-crypto-technologies/bitcore-lib#iop",
+    "bcoin": "mosaik-crypto-technologies/bcoin#experimental",
+    "bitcore-lib": "mosaik-crypto-technologies/bitcore-lib#experimental",
     "bitcore-lib-cash": "0.15.1",
-    "bitcore-message": "mosaik-crypto-technologies/bitcore-message#iop",
+    "bitcore-message": "mosaik-crypto-technologies/bitcore-message#experimental",
     "body-parser": "^1.13.3",
     "compression": "^1.6.1",
     "lodash": "^2.4.1",
